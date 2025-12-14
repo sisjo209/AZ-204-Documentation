@@ -31,8 +31,8 @@ Vid skapande av en vm, skapas/associeras också:
 ##### Storlekar/typer av VMs
 -  General Purpose
 	- Balanserad CPU till minne
-  - Bäst för test, utveckling, små/medium databaser och lågt trafikerade webbtjänster
-  - SKUs: B, Dsv3, Dasv4, DSv2, Dv2, Av2, Dc, DCv2, Dv4, Dsv4, Ddv4, Ddsv4
+  	- Bäst för test, utveckling, små/medium databaser och lågt trafikerade webbtjänster
+  	- SKUs: B, Dsv3, Dasv4, DSv2, Dv2, Av2, Dc, DCv2, Dv4, Dsv4, Ddv4, Ddsv4
   
 - Compute Optimized
 	- Hög CPU till minne
@@ -76,4 +76,5 @@ Vid skapande av en vm, skapas/associeras också:
 ### VMs Cheat Sheet
 <img width="1796" height="885" alt="Skärmbild 2025-12-14 193907" src="https://github.com/user-attachments/assets/3d42b83a-325e-4053-b747-303cf26389a6" />
 <img width="1892" height="575" alt="Skärmbild 2025-12-14 193934" src="https://github.com/user-attachments/assets/1d503080-2b3a-4440-b046-c4cec5a0f7c2" />
+
 
